@@ -1,6 +1,7 @@
 ### hey, i'm jake
 
-![Banner](./bn.png)
+
+<img src="./bn.png" width="800"/>
 
 favorite technologies ->
 
