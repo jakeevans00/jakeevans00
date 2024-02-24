@@ -1,8 +1,5 @@
 ### hey, i'm jake
 
-
-<img src="./bn.png" width="800"/>
-
 favorite technologies ->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,3 +27,4 @@ reach out ->
 [![Instagram Badge](https://img.shields.io/badge/-jakeevans-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jakeevans_1/)](https://www.instagram.com/jakeevans_1/)
 [![Youtube Badge](https://img.shields.io/badge/-jakeevans-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/jakeevans)](https://www.youtube.com/channel/UC4egDms-CGz9_bFUkgYLCDQ)
 [![Gmail Badge](https://img.shields.io/badge/-ejake370@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejake370@gmail.com)](mailto:ejake370@gmail.com)
+
